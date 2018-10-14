@@ -1,0 +1,25 @@
+{
+  "name": "redux_todo_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers babel-register"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.6.2",
+    "dateformat": "^3.0.3",
+    "recastai": "^4.0.0",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.2.0",
+    "deep-freeze": "0.0.1",
+    "mocha": "^5.2.0"
+  }
+}
